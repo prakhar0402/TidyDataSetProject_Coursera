@@ -1,4 +1,4 @@
-TidyDataSetProject_Coursera
+Tidy Data Set Project : Coursera
 ===========================
 
 *Includes codes and datas for the project of the course "Getting and Cleaning Data" on Coursera*
