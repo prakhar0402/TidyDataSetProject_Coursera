@@ -2,7 +2,7 @@ TidyDataSetProject_Coursera
 ===========================
 
 Includes codes and datas for the project of the course "Getting and Cleaning Data" on Coursera
-==============================================================================================
+----------------------------------------------------------------------------------------------
 
 
  - Execute the code included in 'run_analysis.R' to obtain tidy data sets as described in the problem statement of the project.
